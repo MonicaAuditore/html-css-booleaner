@@ -1,0 +1,123 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;    
+}
+
+/* aggiunta di questa parte per il bonus */
+html {
+    width: 60%;
+    margin: 0 auto;
+}
+ 
+/* modifica della width e tolto il background fixed qui per il bonus */
+.nav {
+    width: 60%;
+    height: 113px;
+    background-image: url(../img/pattern.png);
+    background-size: 50%;
+    background-color: #4da1ff;
+    position: absolute;
+}
+
+/* modifica di left per il bonus */
+.nav img {
+    width: 157px;
+    position: relative;
+    left: 153px;
+    bottom: -54px;
+}
+
+.main {
+    padding-left: 5px;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 128px;
+    padding-left: 5px;
+}
+
+
+.evidenza {
+    font-weight: 800;
+    color: #57bfec;
+}
+
+.p-min {
+    font-size: 0.8em;
+}
+
+
+.section-img_img-top {
+padding-top: 20px;
+}
+
+.tim-1 {
+    width: auto; 
+    height: 290px;
+}
+
+.tim-2 {
+    width: auto; 
+    height: 290px;
+}
+
+.section-img_didascalia {
+    font-size: 0.8em;
+}
+
+.section-content {
+padding-top: 20px;
+} 
+
+.highlighted {
+    background-color:#ffff00;
+}
+
+.section-content_ul {
+    padding-top: 25px;
+    padding-left: 15px;
+}
+
+.section-content_tab {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+th {
+    background-color: #1aaae6;
+    text-align: left;
+    color: white;
+}
+
+tr {background-color: #b2e6f2;}
+tr:nth-child(even) {    background-color: white;}
+
+.footer {
+    padding: 30px 0px;
+
+}
+
+.footer_text {
+    color: #ababab;
+    padding-bottom: 10px;
+}
+
+.footer_img {
+    position: relative;
+}
+
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    color: white;
+}
+
+.footer_img img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}

@@ -1,119 +1,119 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;    
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
- 
+
 h1 {
-    font-family: font-family: 'Zen Antique', serif;
-    ;
+  font-family: "Zen Antique", serif;
 }
 
 .nav {
-    width: 100%;
-    height: 113px;
-    background-image: url(../img/pattern.png);
-    background-size: 50%;
-    background-attachment:fixed;
-    background-color: #4da1ff;
-    position: absolute;
+  width: 100%;
+  height: 113px;
+  background-image: url(../img/pattern.png);
+  background-size: 50%;
+  background-attachment: fixed;
+  background-color: #4da1ff;
+  position: absolute;
 }
 
 .nav img {
-    width: 157px;
-    position: relative;
-    left: 5px;
-    bottom: -54px;
+  width: 157px;
+  position: relative;
+  left: 5px;
+  bottom: -54px;
 }
 
 .main {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 .header {
-    padding-top: 128px;
-    padding-left: 5px;
+  padding-top: 128px;
+  padding-left: 5px;
 }
 
-
 .evidenza {
-    font-weight: 800;
-    color: #57bfec;
+  font-weight: 800;
+  color: #57bfec;
 }
 
 .p-min {
-    font-size: 0.8em;
+  font-size: 0.8em;
 }
 
-
 .section-img_img-top {
-padding-top: 20px;
+  padding-top: 20px;
 }
 
 .tim-1 {
-    width: auto; 
-    height: 290px;
+  width: auto;
+  height: 290px;
 }
 
 .tim-2 {
-    width: auto; 
-    height: 290px;
+  width: auto;
+  height: 290px;
 }
 
 .section-img_didascalia {
-    font-size: 0.8em;
+  font-size: 0.8em;
 }
 
 .section-content {
-padding-top: 20px;
-} 
+  padding-top: 20px;
+}
 
 .highlighted {
-    background-color:#ffff00;
+  background-color: #ffff00;
 }
 
 .section-content_ul {
-    padding-top: 25px;
-    padding-left: 15px;
+  padding-top: 25px;
+  padding-left: 15px;
 }
 
 .section-content_tab {
-    padding-top: 20px;
-    padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 th {
-    background-color: #1aaae6;
-    text-align: left;
-    color: white;
+  background-color: #1aaae6;
+  text-align: left;
+  color: white;
 }
 
-tr {background-color: #b2e6f2;}
-tr:nth-child(even) {    background-color: white;}
+tr {
+  background-color: #b2e6f2;
+}
+tr:nth-child(even) {
+  background-color: white;
+}
 
 .footer {
-    padding: 30px 0px;
-
+  padding: 30px 0px;
 }
 
 .footer_text {
-    color: #ababab;
-    padding-bottom: 10px;
+  color: #ababab;
+  padding-bottom: 10px;
 }
 
 .footer_img {
-    position: relative;
+  position: relative;
 }
 
-.top-left{
-    position: absolute;
-    top: 8px;
-    left: 10px;
-    color: white;
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  color: white;
 }
 
 .footer_img img {
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }

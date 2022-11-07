@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;    
+}
+
+.nav {
+    width: 100%;
+    height: 113px;
+    background-image: url(../img/pattern.png);
+    background-size: 50%;
+    background-attachment:fixed;
+    background-color: #4da1ff;
+    position: absolute;
+}
+
+.nav img {
+    width: 157px;
+    position: relative;
+    left: 5px;
+    bottom: -54px;
+}
+
+.header {
+    padding-top: 128px;
+    padding-left: 5px;
+}
+
+
+.evidenza {
+    font-weight: 800;
+    color: #57bfec;
+}
+
+.p-min {
+    font-size: 0.8em;
+}

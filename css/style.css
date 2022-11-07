@@ -6,6 +6,8 @@
 
 h1 {
   font-family: "Zen Antique", serif;
+  line-height: 36px;
+  padding-bottom: 5px;
 }
 
 .nav {

@@ -12,6 +12,8 @@ html {
 
 h1 {
   font-family: "Zen Antique", serif;
+  line-height: 36px;
+  padding-bottom: 5px;
 }
 
 /* modifica della width e tolto il background fixed qui per il bonus */

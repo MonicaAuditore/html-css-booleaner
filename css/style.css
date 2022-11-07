@@ -74,20 +74,17 @@ padding-top: 20px;
 
 .section-content_tab {
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 th {
     background-color: #1aaae6;
     text-align: left;
     color: white;
-    
 }
 
-tr:nth-child(even) {    background-color: #b2e6f2;}
-
-td {
-    padding: 13px;
-}
+tr {background-color: #b2e6f2;}
+tr:nth-child(even) {    background-color: white;}
 
 .footer {
     padding-top: 30px;
